@@ -3,7 +3,7 @@
 
 ## Info
 * 🌱 Studentessa di Informatica all'Università di Padova
-*  Concludendo il progetto di Ingegneria del software
+* Ora lavorando al progetto di tirocinio
   
 <h2 align="left">Competenze IT:</h2>
 si era sfanculizzato e le ho tolte
